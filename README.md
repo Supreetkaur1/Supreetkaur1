@@ -7,7 +7,7 @@
 </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sSupreetKaur&label=Profile%20views&color=1c87ca&style=flat" alt="sSupreetKaur" /> </p>
 
-<h2>About Me🧑🏼‍💻</h2>
+<h2>About Me 👧💻</h2>
 
 <ul type="none">
     <li>🎓 I am currently pursuing my <strong>Bachelor's in Information Technology</strong></li>
